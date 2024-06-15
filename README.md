@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning [NestJS - A progressive Node.js framework](https://nestjs.com/) and [TypeScript - A typed superset of JavaScript](https://www.typescriptlang.org/);
 
 <div>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=costasilvati&show_icons=true">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costasilvati&layout=compact">
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=GuilhermeHS2&show_icons=true">
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHS2&layout=compact">
 </div>
   
   ##

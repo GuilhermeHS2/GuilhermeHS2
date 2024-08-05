@@ -1,10 +1,10 @@
 <code>Console.log("Hello! My name is Guilheme")</code>
 
-A Developer from Brazil with one year of experience in technical support and back end development
+A Developer from Brazil with one year of experience in technical support and full-stack development
 
-* 👨‍💻 Backend developer at [IP Solution](https://ipsolutiontelecom.com.br/).
+* 👨‍💻 Front-end developer at [IP Solution](https://ipsolutiontelecom.com.br/).
 * 💻 Currently studying Systems Analysis and Development at [Unifil](https://unifil.br/).
-* 🌱 Currently learning [NestJS](https://nestjs.com/) and [TypeScript](https://www.typescriptlang.org/).
+* 🌱 Currently enhancing my knowledge in [React](https://react.dev/) and [Next.js](https://nextjs.org/).
 * 🎮 I really enjoy playing video games in my free time
 
 ## 🔗 Connect with me
@@ -14,7 +14,7 @@ A Developer from Brazil with one year of experience in technical support and bac
 
 
 ## ⚡ Stack
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,javascript,typescript,vuejs,python,linux,postgresql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,nestjs,nextjs,react,vuejs,python,linux,postgresql,mysql,docker)](https://skillicons.dev)
 
 
 <div>

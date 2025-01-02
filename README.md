@@ -2,7 +2,6 @@
 
 A Developer from Brazil with one year of experience in technical support and full-stack development
 
-* 👨‍💻 Front-end developer at [IP Solution](https://ipsolutiontelecom.com.br/).
 * 💻 Currently studying Systems Analysis and Development at [Unifil](https://unifil.br/).
 * 🌱 Currently enhancing my knowledge in [React](https://react.dev/) and [Next.js](https://nextjs.org/).
 * 🎮 I really enjoy playing video games in my free time

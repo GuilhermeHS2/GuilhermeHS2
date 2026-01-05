@@ -16,7 +16,7 @@ A QA from Brazil with one year of experience in technical support and full-stack
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,nestjs,nextjs,react,vuejs,python,linux,postgresql,mysql,docker)](https://skillicons.dev)
 
 
-<div>
+<!-- <div>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=GuilhermeHS2&show_icons=true&theme=tokyonight">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHS2&layout=compact&theme=tokyonight">
-</div>
+</div> -->

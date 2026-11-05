@@ -1,6 +1,6 @@
 <code>Console.log("Hello! My name is Guilheme")</code>
 
-A QA from Brazil with one year of experience in technical support and full-stack development
+A SDET from Brazil with one year of experience in technical support and full-stack development
 
 * 💻 Currently studying Systems Analysis and Development at [Unifil](https://unifil.br/).
 * 🌱 Currently enhancing my knowledge in [React](https://react.dev/) and [Next.js](https://nextjs.org/).

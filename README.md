@@ -1,22 +1,20 @@
-<code>Console.log("Hello! My name is Guilheme")</code>
+# Hi, I'm Guilherme 👋
 
-A SDET from Brazil with one year of experience in technical support and full-stack development
+SDET from Londrina, Brazil. I automate Web, API and Mobile tests with Cypress, Playwright and Japa, and I use AI agents (Playwright MCP) in my daily testing work.
 
-* 💻 Currently studying Systems Analysis and Development at [Unifil](https://unifil.br/).
-* 🌱 Currently enhancing my knowledge in [React](https://react.dev/) and [Next.js](https://nextjs.org/).
-* 🎮 I really enjoy playing video games in my free time
+🌌 Portfolio: [guilhermesh2.vercel.app](https://guilhermesh2.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/guilhermehs2/)
 
-## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermehs2/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/guilhermexx28/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeHS2/)
+## Featured projects
 
+| Project | What it shows |
+|---|---|
+| [ai-exploratory-tester](https://github.com/GuilhermeHS2/ai-exploratory-tester) | An exploratory testing AI agent (Claude + Playwright MCP) scored against a shop app with 10 planted bugs: recall, precision, false positives and cost per run |
+| [playwright-e2e-ai](https://github.com/GuilhermeHS2/playwright-e2e-ai) | Playwright + TypeScript API and E2E suite: Page Objects, fixtures, zod schemas, 3-browser CI and a [public HTML report](https://guilhermehs2.github.io/playwright-e2e-ai/) |
+| [Portfolio](https://github.com/GuilhermeHS2/Portfolio) | My portfolio site |
 
-## ⚡ Stack
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,nestjs,nextjs,react,vuejs,python,linux,postgresql,mysql,docker)](https://skillicons.dev)
+## Stack
 
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-<!-- <div>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=GuilhermeHS2&show_icons=true&theme=tokyonight">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHS2&layout=compact&theme=tokyonight">
-</div> -->
+[![Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,githubactions,docker,nestjs,vuejs,postgresql,mysql)](https://skillicons.dev)
